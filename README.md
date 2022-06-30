@@ -26,4 +26,4 @@ I usally build cool, interesting websites or tools for fun and for learning , we
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
 ---
-⭐️ From [@Micheal-George](https://github.com/Micheal-George)
+ From [@Micheal-George](https://github.com/Micheal-George)
