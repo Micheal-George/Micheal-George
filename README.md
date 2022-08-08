@@ -3,7 +3,7 @@
 
 Hi there, thanks for stopping by, this is Micheal George from Kerala.
 
-I usally build cool, interesting websites or tools for fun and for learning , welcome to scroll down to explore
+I usually build cool, interesting websites or tools for fun and for learning , welcome to scroll down to explore
   - Kalyan Jewellers Clone https://stellular-scone-3e11dc.netlify.app/,
   - PluraSight Clone https://dulcet-brigadeiros-75a972.netlify.app/
 , maybe you will love them. 😁
