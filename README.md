@@ -1,7 +1,8 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Java+Backend+Developer.++++++++++)](https://git.io/typing-svg)
 
-Hi there, thanks for stopping by, this is Micheal George from Kerala.
+<h2 align="center">Hi  👋, I'm Micheal George !</h2> 
 
 I usually build cool, interesting websites or tools for fun and for learning , welcome to scroll down to explore
   - Kalyan Jewellers Clone https://stellular-scone-3e11dc.netlify.app/,
@@ -22,8 +23,27 @@ I usually build cool, interesting websites or tools for fun and for learning , w
   <i>A good code is like a story, not a puzzle.</i><br/>
 
 </p>
+## Medium Articles
 
-![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
 
----
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
+
+## Repos
+
+[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=nvFARHAN/cowin.gov.in&show_owner=true)]
+(https://github.com/nvFARHAN/cowin.gov.in)
+
+[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
+
+[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
+
+---<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Micheal-George&column=9&theme=gruvbox&no-frame=true"/>
+
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Micheal-George&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Micheal-George&layout=compact)
+
  From [@Micheal-George](https://github.com/Micheal-George)
