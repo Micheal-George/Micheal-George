@@ -29,8 +29,8 @@ I usually build cool, interesting websites or tools for fun and for learning , w
 
 ![cowin.gov.in](https://github-readme-stats.vercel.app/api/pin/?username=nvFARHAN&repo=cowin.gov.in&show_owner=true)
 
-
-
+[![PluralSight.Site](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=PluralSight.Site&show_owner=true)]
+(https://github.com/Micheal-George/PluralSight.Site)
   
 
 [![KalyanJewellers](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=Kalyan-Jewellers-clone&show_owner=true)](https://github.com/Micheal-George/Kalyan-Jewellers-clone)
