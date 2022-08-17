@@ -33,7 +33,7 @@ I usually build cool, interesting websites or tools for fun and for learning , w
 [![PluralSight.Site](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=PluralSight.Site&show_owner=true)](https://github.com/Micheal-George/PluralSight.Site)
   
 
-[![KalyanJewellers](https://github-readme-stats.vercel.app/api/pin/?username=DeepanshuChugh&repo=KalyanJewellers&show_owner=true)](https://github.com/DeepanshuChugh/KalyanJewellers)
+[![KalyanJewellers](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=Kalyan-Jewellers-clone&show_owner=true)](https://github.com/Micheal-George/Kalyan-Jewellers-clone)
 
 ---<h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Micheal-George&column=9&theme=gruvbox&no-frame=true"/>
