@@ -24,6 +24,16 @@ I usually build cool, interesting websites or tools for fun and for learning , w
 
 </p>
 
+## Languages and Tools: 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bash" width="60" height="50"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="css3" width="60" height="50"/></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeBBf2wDMIxx5mkTXcEEfZUkjlEYMXY5MVZyy-yg&s" alt="git" width="60" height="50"/></code>
+<code><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="git" width="60" height="50"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="60" height="50"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="50"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png" width="60" height="50"/></code>
 
 ## Repos
 
