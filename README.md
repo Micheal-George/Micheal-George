@@ -31,12 +31,13 @@ I usually build cool, interesting websites or tools for fun and for learning , w
 
 ## Repos
 
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=nvFARHAN/cowin.gov.in&show_owner=true)]
-(https://github.com/nvFARHAN/cowin.gov.in)
+![cowin.gov.in](https://github-readme-stats.vercel.app/api/pin/?username=nvFARHAN&repo=cowin.gov.in&show_owner=true)
 
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
+[![PluralSight.Site](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=PluralSight.Site&show_owner=true)](https://github.com/Micheal-George/PluralSight.Site)
+  
+
+[![KalyanJewellers](https://github-readme-stats.vercel.app/api/pin/?username=DeepanshuChugh&repo=KalyanJewellers&show_owner=true)](https://github.com/DeepanshuChugh/KalyanJewellers)
 
 ---<h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Micheal-George&column=9&theme=gruvbox&no-frame=true"/>
