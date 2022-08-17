@@ -23,11 +23,7 @@ I usually build cool, interesting websites or tools for fun and for learning , w
   <i>A good code is like a story, not a puzzle.</i><br/>
 
 </p>
-## Medium Articles
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
 
 ## Repos
 
