@@ -18,7 +18,7 @@
   I usually build cool, interesting websites or tools for fun and for learning , welcome to scroll down to explore
  - 👯 I worked collaboratively on <a href="https://github.com/nvFARHAN/cowin.gov.in" rel="nofollow"> REST API for an Covid-19 Application </a>
 
-- 👨‍💻 All of my projects are available at <a href="" rel="nofollow"> Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://micheal-george-mgportfolio.netlify.app/" rel="nofollow"> Portfolio </a>
 
   , maybe you will love them. 😁
 
