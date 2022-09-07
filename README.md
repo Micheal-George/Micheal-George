@@ -2,7 +2,9 @@
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Java+Backend+Developer.++++++++++)](https://git.io/typing-svg)
 
-<h2 align="center">Hi  👋, I'm Micheal George !</h2> 
+<h1 align="center">Hi  👋, I'm Micheal George !</h1> 
+<h3  align="center">A passionate Backend developer from India, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
+
 
 - 🔭 I’m currently  at Masai School
 
