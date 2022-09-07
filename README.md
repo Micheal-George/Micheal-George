@@ -46,7 +46,7 @@
 
 ## Repos
 
-![cowin.gov.in](https://github-readme-stats.vercel.app/api/pin/?username=nvFARHAN&repo=cowin.gov.in&show_owner=true)
+[![cowin.gov.in](https://github-readme-stats.vercel.app/api/pin/?username=nvFARHAN&repo=cowin.gov.in&show_owner=true)](https://github.com/nvFARHAN/cowin.gov.in)
 
 [![PluralSight.Site](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=PluralSight.Site&show_owner=true)](https://github.com/Micheal-George/PluralSight.Site)
   
