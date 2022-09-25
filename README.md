@@ -14,13 +14,13 @@
 
 - ⚡ Languages: Java, Javascript
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1i9vgT0BP0Dkn0YV2ht92GuLlgV3ZCVJ1/view?usp=sharing" rel="nofollow"> Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Mw8Xjs_DWb-7nDKARSCzm2QHXko_ZsNw/view?usp=sharing" rel="nofollow"> Resume </a>
 
 
   I usually build cool, interesting websites or tools for fun and for learning , welcome to scroll down to explore
  - 👯 I worked collaboratively on <a href="https://github.com/nvFARHAN/cowin.gov.in" rel="nofollow"> REST API for an Covid-19 Application </a>
 
-- 👨‍💻 All of my projects are available at <a href="https://micheal-george-mgportfolio.netlify.app/" rel="nofollow"> Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://micheal-george.github.io/" rel="nofollow"> Portfolio </a>
 
   , maybe you will love them. 😁
 
