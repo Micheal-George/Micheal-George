@@ -46,14 +46,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="50"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png" width="60" height="50"/></code>
 
-## Repos
 
-[![cowin.gov.in](https://github-readme-stats.vercel.app/api/pin/?username=nvFARHAN&repo=cowin.gov.in&show_owner=true)](https://github.com/nvFARHAN/cowin.gov.in)
-
-[![PluralSight.Site](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=PluralSight.Site&show_owner=true)](https://github.com/Micheal-George/PluralSight.Site)
-  
-
-[![KalyanJewellers](https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=Kalyan-Jewellers-clone&show_owner=true)](https://github.com/Micheal-George/Kalyan-Jewellers-clone)
 
 ---<h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Micheal-George&column=9&theme=gruvbox&no-frame=true"/>
